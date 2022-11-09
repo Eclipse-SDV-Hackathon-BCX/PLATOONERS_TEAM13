@@ -18,6 +18,7 @@ Everything in the truck is connected to the onboard computing PCs. The PCs are c
 - Run platoonsDetectionMain.py in project 
 
 ## Results Demo Video
+https://www.linkedin.com/posts/shubg1994_bcw22-bosch-continental-activity-6996127280531914752-OGcc?utm_source=share&utm_medium=member_desktop
 
 
 ## Contact Team PLATOONER 
