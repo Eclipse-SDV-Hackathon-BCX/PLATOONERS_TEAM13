@@ -14,16 +14,13 @@ Everything in the truck is connected to the onboard computing PCs. The PCs are c
 ## To run the service
 - git clone the repository 
 - Install the requirements
-- Intsall **Eclipse eCAL™**
+- Install **Eclipse eCAL™**
 - Run platoonsDetectionMain.py in project 
 
-## Results Demo
+## Results Demo Video
 
 
-# Contact Team PLATOONER 
-1. Adarsh Kuzhipathalil (Email : adarsh.kuzhipathalil@gmail.com)
-https://www.linkedin.com/in/adarsh-kuzhipathalil/
-2. Reshma Vasan R (Email : reshmavasan14@gmail.com)
-https://www.linkedin.com/in/reshma-vasan/
-3. Shubham Gupta (Email : st173207@stud.uni-stuttgart.de)
-https://www.linkedin.com/in/shubg1994/
+## Contact Team PLATOONER 
+1. Adarsh Kuzhipathalil (Email : adarsh.kuzhipathalil@gmail.com, https://www.linkedin.com/in/adarsh-kuzhipathalil/)
+2. Reshma Vasan R (Email : reshmavasan14@gmail.com, https://www.linkedin.com/in/reshma-vasan/)
+3. Shubham Gupta (Email : st173207@stud.uni-stuttgart.de, https://www.linkedin.com/in/shubg1994/)
